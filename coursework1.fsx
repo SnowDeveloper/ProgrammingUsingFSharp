@@ -1,37 +1,7 @@
 (*
 
-  Department of Computer Science
-  Tallinn University of Technology
-  -----------------------------------
-
   Coursework 1: Basic operations on lists
 
-  ------------------------------------
-  Name: Madhushree Singh
-  TUT Student ID: 166807IVSM
-  ------------------------------------
-
-
-  Answer the questions below.  You answers to questions 1--9 should be
-  correct F# code written after the question. This file is an F#
-  script file, it should be possible to load the whole file at
-  once. If you can't then you have introduced a syntax error
-  somewhere.
-
-  This coursework will be graded.
-
-  To submit the coursework you will be asked to
-  
-  1) Check out your empty GIT repository
-  from the server git.ttu.ee using instructions on page
-  https://courses.cs.ttu.ee/pages/ITT8060
-
-  2) Put your solution into a file courswork1/coursework1.fsx
-  in the repository. Commit it and push it to the server!
-
-  NB! It is very important to make sure you use the exact name using
-  only small caps. Files submitted under wrong name may not get a grade.
-//-----------Upload the homework in the master repo
  
 *)
 

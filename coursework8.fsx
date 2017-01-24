@@ -1,36 +1,7 @@
 ﻿(*
 
-  ITT8060 -- Advanced Programming 2016
-  Department of Computer Science
-  Tallinn University of Technology
-  ------------------------------------------------------------------------------
-
   Coursework 8: Sequences and computation expressions
 
-  ------------------------------------------------------------------------------
-  Name: Madhushree Singh
-  Student ID: 166807IVSM
-  ------------------------------------------------------------------------------
-
-
-  Answer the questions below. You answers to the questions should be correct F#
-  code written after the question. This file is an F# script file; it should be
-  possible to load the whole file at once. If you can't, then you have
-  introduced a syntax error somewhere.
-
-  This coursework will be graded.
-
-  Commit and push your script part of the solution to the repository as file
-  coursework8.fsx in directory coursework8.
-
-  Please do not upload DLL-s. Just include a readme.txt file containing the
-  dependencies required (additional DLLs)
-
-  The deadline for completing the above procedure is Friday, December 2, 2016.
-
-  We will consider the submission to be the latest version of the appropriate
-  files in the appropriate directory before the deadline of a particular
-  coursework.
 
 *)
 

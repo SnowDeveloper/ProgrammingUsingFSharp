@@ -1,26 +1,6 @@
 (*
-
-  ITT8060 -- Advanced Programming 2016
-  Department of Computer Science
-  Tallinn University of Technology
-  ------------------------------------
-
   Coursework 5: Working with data: intro to type providers and charting
 
-  ------------------------------------
-  Name: Madhushree Singh
-  TUT Student ID: 166807IVSM
-  ------------------------------------
-
-
-  Answer the questions below.  You answers to questions 1--6 should be
-  correct F# code written after the question. This file is an F#
-  script file, it should be possible to load the whole file at
-  once. If you can't then you have introduced a syntax error
-  somewhere.
-
-  This coursework will be graded. It has to be submitted to the TUT
-  git system using the instructions on the course web page by October 29, 2016.
 *)
 
 // 1) The following three different fuel consumption units for vehicles are in use:
